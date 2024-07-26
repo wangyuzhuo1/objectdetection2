@@ -1,0 +1,23 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.label
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+.bedroom {
+    font-size: 30px;
+}
+
+.fruits {
+    font-size: 30px;
+}
+
+.kitchen {
+    font-size: 30px;
+}
